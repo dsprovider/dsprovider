@@ -30,3 +30,15 @@ Proficient in Python 🐍, Java, C#, and scripting languages like PowerShell and
 
 
 📫 **Get in Touch!**
+
+If you want to collaborate, discuss ideas, or just say hi 👋, feel free to connect with me through these platforms:
+
+* LinkedIn: https://www.linkedin.com/in/andres-gonzalez-0b893019a/
+
+* Fiverr: https://www.fiverr.com/agonza1101
+
+* Upwork: https://www.upwork.com/freelancers/~01aa0c55396fd9674f
+
+* GitHub: You're already here! 😄
+
+
