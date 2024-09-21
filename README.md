@@ -5,7 +5,9 @@ Welcome to my GitHub profile! I am a professional with a unique background combi
 
 🛠️ **Skills & Expertise**
 
-**1.** <u>Data Analysis & Visualization</u> 📊
+<span style="text-decoration:underline;">This text is underlined</span>
+
+**1.** Data Analysis & Visualization 📊
 Transforming raw data into structured formats and identifying patterns using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. Proficient in business intelligence tools like Tableau and skilled in SQL (especially MS SQL Server) for large-scale data analysis
 
 **2.** Automation & ETL Pipelines ⚙️
