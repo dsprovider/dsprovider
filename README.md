@@ -8,19 +8,19 @@ Welcome to my GitHub profile! I am a professional with a unique background combi
 
 🛠️ **Skills & Expertise**
 
-📊 Data Analysis & Visualization
+1️⃣ Data Analysis & Visualization 📊
 
 Transforming raw data into structured formats and identifying patterns using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn. Proficient in business intelligence tools like Tableau and skilled in SQL (especially MS SQL Server) for large-scale data analysis
 
-⚙️ Automation & ETL Pipelines
+2️⃣ Automation & ETL Pipelines ⚙️
 
 Streamlining workflows and developing automation scripts using Python, Java, C#, and APIs. Experienced in designing and maintaining ETL pipelines to optimize data management
 
-🕵️‍♂️ Digital Forensics
+3️⃣ Digital Forensics 🕵️‍♂️
 
 Digital forensics practitioner with a background in conducting sensitive investigations, involving data extraction and eDiscovery workflows
 
-💻 Programming Languages
+4️⃣ Programming Languages 💻
 
 Proficient in Python 🐍, Java, C#, and scripting languages like PowerShell and Bash. Always eager to learn and explore new technologies
 
