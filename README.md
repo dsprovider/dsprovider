@@ -1,12 +1,12 @@
-👋 **Hello there! I am Andrés**
+# 👋 **Hello there! I am Andrés**
 
-**Data Analyst | Automation Expert | Python Developer**
+# **Data Analyst | Automation Expert | Python Developer**
 
 Welcome to my GitHub profile! I am a professional with a unique background combining digital forensics and a passion for task automation and data analysis. I am always excited to take on new projects, particularly those that involve automating workflows, building efficient ETL pipelines, and exploring areas like data science, data processing, analysis, visualization, and web scraping
 
 
 
-🛠️ **Skills & Expertise**
+# 🛠️ **Skills & Expertise**
 
 1️⃣ Data Analysis & Visualization 📊
 
@@ -26,15 +26,15 @@ Proficient in Python 🐍, Java, C#, and scripting languages like PowerShell and
 
 
 
-🚀 **Featured Projects** (🚧 Work in Progress)
+# 🚀 **Featured Projects** (🚧 Work in Progress)
 
 
 
-✨ **What I am Focusing on Now** (🚧 Work in Progress)
+# ✨ **What I am Focusing on Now** (🚧 Work in Progress)
 
 
 
-📫 **Get in Touch!**
+# 📫 **Get in Touch!**
 
 If you want to collaborate, discuss ideas, or just say hi 👋, feel free to connect with me through these platforms:
 
